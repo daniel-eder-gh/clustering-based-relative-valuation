@@ -34,11 +34,12 @@ The project follows the CRISP-DM data science framework:
 
 
 ## Repository Structure
-├── 01 data/             # Processed financial data (2017–2022)
-├── 02 notebooks/        # Jupyter notebooks with clustering & trading strategy
-├── 03 src/              # Core Python scripts (preprocessing, modeling, evaluation)
-├── 04 results/          # Plots, cluster stats, trading performance outputs
-└── README.md         # Project documentation (this file)
+* 01 data/             # Processed financial data (2017–2022)
+* 02 notebooks/        # Jupyter notebooks with clustering & trading strategy
+* 03 src/              # Core Python scripts (preprocessing, modeling, evaluation)
+* 04 results/          # Plots, cluster stats, trading performance outputs
+* README.md            
+* main.py              
 
 ## Technologies Used
 * Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
@@ -48,5 +49,6 @@ The project follows the CRISP-DM data science framework:
 ## Citation
 If you use this code or methodology, please cite:
 Daniel Eder (2024). A Modern Approach to Equities Investing: Clustering-Based Relative Valuation. Bachelor Thesis, WU Vienna.
+
 
 
