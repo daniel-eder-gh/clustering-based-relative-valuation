@@ -50,5 +50,6 @@ The project follows the CRISP-DM data science framework:
 If you use this code or methodology, please cite:
 Daniel Eder (2024). A Modern Approach to Equities Investing: Clustering-Based Relative Valuation. Bachelor Thesis, WU Vienna.
 
+For a copy of my thesis, mail danieleder21@gmail.com
 
 
