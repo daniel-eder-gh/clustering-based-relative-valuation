@@ -28,6 +28,10 @@ The project follows the CRISP-DM data science framework:
 * Value vs. Growth Stocks: Contrary to conventional finance theory, growth stocks outperformed value stocks in this dataset
 * Feature Selection: Domain knowledge–driven features (e.g., profitability, growth, risk) worked better than fully automated selection
 
+<img width="495" height="443" alt="image" src="https://github.com/user-attachments/assets/d4c866e8-c91e-4071-b80c-925dee9bb39d" />
+<img width="2049" height="948" alt="Picture1" src="https://github.com/user-attachments/assets/6923e50a-ba14-4519-a6cf-cd4e9b0dc4cb" />
+
+
 ## Repository Structure
 ├── 01 data/             # Processed financial data (2017–2022)
 ├── 02 notebooks/        # Jupyter notebooks with clustering & trading strategy
@@ -43,3 +47,4 @@ The project follows the CRISP-DM data science framework:
 ## Citation
 If you use this code or methodology, please cite:
 Daniel Eder (2024). A Modern Approach to Equities Investing: Clustering-Based Relative Valuation. Bachelor Thesis, WU Vienna.
+
